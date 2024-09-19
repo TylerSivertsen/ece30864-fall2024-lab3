@@ -14,3 +14,13 @@ b) Role and responsibilities of the scrum master vs. product owner
    - manages and prioritizes the product backlog, ensuring that it aligns with business goals and user needs
    - contact point between the development team and stakeholders, ensuring that the stakeholders requirements and feedback are incorporated
 
+c) Meeting types during sprint cycle
+ - Sprint Planning
+   - Define waht can be delivered in the upcoming sprint and how
+   - create tasklist and user stories to be completed during sprint
+ - Daily stand-upcoming
+   - team members share progress updates, daily goals, and any obstacles they're facing
+   - identify and discuss any issues that are preventing progress
+ - Sprint review
+   - present completed work to stakeholders and get feedback
+   - assess success of sprint goals and any discrepancies
