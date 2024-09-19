@@ -1,0 +1,36 @@
+a) What are some Pros and cons of agile development (vs non agile)?
+ - Pros
+   - Agile allows teams to adapt to changes quickly
+   - Frequent releases and itereations allow for continuous improvement and early delivery of features
+ - Cons
+   - Agile demands constant communication and collaboration, which can be challenging amongst teams and stakeholders
+   - The flexibility to change requirements can lead to scope creep
+
+b) Role and responsibilities of the scrum master vs. product owner
+ - Scrum master
+   - Ensures that scrum practices are followed and helps the team adhere to agile principles
+   - works to resolve any obstacles that may hinder the team's progress and ensures a smooth workflow
+ - Product owner
+   - manages and prioritizes the product backlog, ensuring that it aligns with business goals and user needs
+   - contact point between the development team and stakeholders, ensuring that the stakeholders requirements and feedback are incorporated
+
+c) Meeting types during sprint cycle
+ - Sprint Planning
+   - Define waht can be delivered in the upcoming sprint and how
+   - create tasklist and user stories to be completed during sprint
+ - Daily stand-upcoming
+   - team members share progress updates, daily goals, and any obstacles they're facing
+   - identify and discuss any issues that are preventing progress
+ - Sprint review
+   - present completed work to stakeholders and get feedback
+   - assess success of sprint goals and any discrepancies
+
+d) Difference between JIRA Epic, Story, Bug, and Task issue types
+ - Epic
+   - Large Body of work that can be broken down into smaller tasks or stories (high level goals)
+ - Story
+   - Smaller more manageable piece of work that delivers specific values to user (often derived from Epics)
+ - Bug
+   - An issue that indicates a defect or problem in the system that needs to be fixed (errors or unintended behavior)
+ - Task
+   - A work item that is often a smaller piece o fwork that is not directly related to a user story but still needs to be completed
