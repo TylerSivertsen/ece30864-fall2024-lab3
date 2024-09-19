@@ -6,3 +6,11 @@ a) What are some Pros and cons of agile development (vs non agile)?
    - Agile demands constant communication and collaboration, which can be challenging amongst teams and stakeholders
    - The flexibility to change requirements can lead to scope creep
 
+b) Role and responsibilities of the scrum master vs. product owner
+ - Scrum master
+   - Ensures that scrum practices are followed and helps the team adhere to agile principles
+   - works to resolve any obstacles that may hinder the team's progress and ensures a smooth workflow
+ - Product owner
+   - manages and prioritizes the product backlog, ensuring that it aligns with business goals and user needs
+   - contact point between the development team and stakeholders, ensuring that the stakeholders requirements and feedback are incorporated
+
