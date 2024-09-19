@@ -24,3 +24,13 @@ c) Meeting types during sprint cycle
  - Sprint review
    - present completed work to stakeholders and get feedback
    - assess success of sprint goals and any discrepancies
+
+d) Difference between JIRA Epic, Story, Bug, and Task issue types
+ - Epic
+   - Large Body of work that can be broken down into smaller tasks or stories (high level goals)
+ - Story
+   - Smaller more manageable piece of work that delivers specific values to user (often derived from Epics)
+ - Bug
+   - An issue that indicates a defect or problem in the system that needs to be fixed (errors or unintended behavior)
+ - Task
+   - A work item that is often a smaller piece o fwork that is not directly related to a user story but still needs to be completed
